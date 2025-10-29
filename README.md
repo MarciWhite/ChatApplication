@@ -1,6 +1,9 @@
 # ChatApplication
 A chat application with some basic security features. It was made before I started college as a solo project, that's why there is a lack of documentation.
 
+## DISCLAIMER
+THIS IS IN NO WAY SECURE, NEVER TRY TO IMPLEMENT YOUR OWN CRYPTO. THIS WAS DONE FOR EDUCATIONAL PURPOSES, WHERE SECURITY WAS NOT A PRIORITY.
+
 ## Libraries used
 - pymongo - database connection
 - socket - server-client connection
